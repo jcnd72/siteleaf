@@ -12,5 +12,6 @@ layout: post
 ---
 
 ### New Post.
+{{ Author }}
 
 This is an inline image:
