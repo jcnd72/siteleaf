@@ -13,5 +13,6 @@ layout: post
 
 ### New Post.
 {{Author}}
+{{ page.title }}
 
 This is an inline image:
