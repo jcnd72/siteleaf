@@ -2,6 +2,9 @@
 title: Your awesome title
 timezone: UTC
 collections:
+  integrations:
+    title: Integrations
+    output: true
   posts:
     title: Posts
     output: true
