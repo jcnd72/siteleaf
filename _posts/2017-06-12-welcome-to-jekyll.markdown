@@ -12,6 +12,6 @@ layout: post
 ---
 
 ### New Post.
-{{ Author }}
+{{Author}}
 
 This is an inline image:
