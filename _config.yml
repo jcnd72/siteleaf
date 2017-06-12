@@ -2,6 +2,9 @@
 title: Your awesome title
 timezone: UTC
 collections:
+  bts:
+    title: BTS
+    output: true
   integrations:
     title: Integrations
     output: true
