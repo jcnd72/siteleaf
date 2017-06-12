@@ -14,5 +14,6 @@ layout: post
 ### New Post.
 {{ page.author}}
 {{ page.title }}
+{{ page.categories }}
 
 This is an inline image:
