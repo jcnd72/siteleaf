@@ -12,7 +12,7 @@ layout: post
 ---
 
 ### New Post.
-{{Author}}
+{{author}}
 {{ page.title }}
 
 This is an inline image:
