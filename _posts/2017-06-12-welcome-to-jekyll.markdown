@@ -5,8 +5,8 @@ categories:
 - jekyll
 - update
 Image:
-- "/uploads/mother-son.jpg"
-- 500px
+  Image: "/uploads/mother-son.jpg"
+  Width: 500px
 Title: SportsEngine is great
 Author: Jim Dahline
 Excerpt: SportsEngine is great. And Stuff.
@@ -16,5 +16,8 @@ layout: post
 ### New Post.
 {{ page.title }}
 {{ page.categories }}
+{{ page.image }}
+
+
 
 This is an inline image:
