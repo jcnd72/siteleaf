@@ -4,9 +4,7 @@ date: 2017-06-12 09:17:00 Z
 categories:
 - jekyll
 - update
-Image:
-  url: "/uploads/mother-son.jpg"
-  Width: 500px
+Image: "/uploads/mother-son.jpg"
 Title: SportsEngine is great
 Author: Jim Dahline
 Excerpt: SportsEngine is great. And Stuff.
