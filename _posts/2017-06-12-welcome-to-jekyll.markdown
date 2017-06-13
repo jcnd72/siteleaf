@@ -14,7 +14,7 @@ layout: post
 ### New Post.
 {{ page.title }}
 {{ page.categories }}
-{{ page.image }}
+{{ page['prep time'] }}
 
 
 
