@@ -9,7 +9,6 @@ Image:
 - 500px
 Title: SportsEngine is great
 Author: Jim Dahline
-
 Excerpt: SportsEngine is great. And Stuff.
 layout: post
 ---
