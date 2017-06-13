@@ -12,7 +12,6 @@ layout: post
 ---
 
 ### New Post.
-{{ page.author }}
 {{ page.title }}
 {{ page.categories }}
 
