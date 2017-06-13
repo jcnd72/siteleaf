@@ -5,9 +5,6 @@ collections:
   bts:
     title: BTS
     output: true
-  integrations:
-    title: Integrations
-    output: true
   posts:
     title: Posts
     output: true
